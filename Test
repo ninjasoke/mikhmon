@@ -3,10 +3,10 @@
 #EXTM3U x-url-tvg="https://bit.ly/JejeVisionEPG" 
 
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Indonesia Channels",RCTI HD
-https://cdn09jtedge.indihometv.com/joss/134/tvedukasi/index.m3u8
+https://cdn09jtedge.useetv.com/joss/134/tvedukasi/chunklist_w1304225223_b1004100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="Indonesia Channels",MENTARI KIDS TV
-https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8
+https://cdn08jtedge.indihometv.com/joss/133/sctv/index.m3u8
 
 #EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/GTV.png" group-title="Indonesia Channels",GTV
 https://cdn09jtedge.indihometv.com/joss/133/kompastv/index.m3u8
