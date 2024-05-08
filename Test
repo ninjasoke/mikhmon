@@ -3,7 +3,7 @@
 #EXTM3U x-url-tvg="https://bit.ly/JejeVisionEPG" 
 
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Indonesia Channels",RCTI HD
-https://dl.dropbox.com/scl/fi/ts4nn18c0rdzkb9qallxf/rcti-2.m3u8?rlkey=793mv0c8btlgg7tj1lt1yqnz5
+https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
 
 #EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="Indonesia Channels",MNC TV
 http://op-group1-swiftservesd-1.dens.tv/s/s13/S4/mnf.m3u8
@@ -51,7 +51,7 @@ https://ythls.armelin.one/channel/UC1-ATnDVEwKT6-0aEeJ2ibA.m3u8
 https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
 #EXTINF:-1 tvg-id="Daai TV" tvg-name="DAAI TV" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/DAAITV.png" group-title="Indonesia Channels",DAAI TV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch128%29/index.m3u8
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
 
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.mncnow.id/images/channel/c8369888/3fdb_r32.jpg" group-title="Indonesia Channels",RTV
 http://210.210.155.37/session/01ec4c78-827b-11ee-93b3-aa38b7050ceb/uq2663/h/h10/02.m3u8
