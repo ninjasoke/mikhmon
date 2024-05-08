@@ -3,7 +3,7 @@
 #EXTM3U x-url-tvg="https://bit.ly/JejeVisionEPG" 
 
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Indonesia Channels",RCTI HD
-http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=683099&extension=m3u8
+https://testfunctionlive.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.m3u8
 
 #EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="Indonesia Channels",MNC TV
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:B1:30:05&stream=683098&extension=m3u8&play_token=xdbt7BgLik
@@ -31,15 +31,15 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels" tvg-url="https://bit.ly/JejeVisionEPG",LIPUTAN 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://livestream.zazerconer.workers.dev/channel/UC1QpnGo11epfexw1bIiTHTg.m3u8
+https://1a-rcti.rctiplus.id/rcti-sdi.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="Indonesia Channels" tvg-url="https://bit.ly/JejeVisionEPG",INDOSIAR 1 HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="Indonesia Channels" tvg-url="https://bit.ly/JejeVisionEPG",INDOSIAR HD 
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="Indonesia Channels" tvg-url="https://bit.ly/JejeVisionEPG",RRI NET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://103.113.116.150:25461/mtm1/12345/3
+https://rrinet.rri.co.id/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="Indonesia Channels" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.mncnow.id/images/channel/b32939e5/00e6_r32.jpg",NET TV HD
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
