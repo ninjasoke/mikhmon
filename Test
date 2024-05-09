@@ -2,14 +2,12 @@
 #EXTM3U url-tvg="https://bit.ly/JejeVisionEPG" 
 #EXTM3U x-url-tvg="https://bit.ly/JejeVisionEPG" 
 
-#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Indonesia Channels",RCTI HD
-https://cdn08jtedge.indihometv.com/dassdvr/133/net/index.m3u8
+#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Indonesia Channels",TEST 1HD
+https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8
 
-#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="Indonesia Channels",MENTARI KIDS TV
-https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8
+#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Indonesia Channels",TEST 2 HD
+https://cdn09jtedge.indihometv.com/dassdvr/133/net/index.m3u8
 
-#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/GTV.png" group-title="Indonesia Channels",ANIMAX TV
-https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
 
 #EXTINF:-1 tvg-id="Trans TV - [Channel 87].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="Indonesia Channels",TRANS TV HD
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
@@ -97,6 +95,12 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_1500000=1000
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="Indonesia Channels", MAGNA CH
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="Indonesia Channels",MENTARI KIDS TV
+https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8
+
+#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/GTV.png" group-title="Indonesia Channels",ANIMAX TV
+https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
 
 #EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="Indonesia Channels", NUSANTARA TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
