@@ -6,7 +6,7 @@
 https://cdn09jtedge.indihometv.com/joss/133/galaxy/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Indonesia Channel", TEST 2
-https://qp-pldt-live-grp-03-prod.akmaized.net/out/u/hbohd_qp.m3u8
+http://qp-pldt-live-grp-03-prod.akmaized.net/out/u/hbohd_qp.m3u8
 
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Indonesia Channels",TEST 3
 https://cdn09jtedge.indihometv.com/joss/102/mnctv/index.m3u8
