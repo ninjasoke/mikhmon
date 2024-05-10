@@ -6,11 +6,10 @@
 https://cdn09jtedge.indihometv.com/joss/133/galaxy/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Indonesia Channel", TEST 2
-https://cdn09jtedge.indihometv.com/joss/194/Spottv/chunklist.m3u8
-
+https://cdn09jtedge.indihometv.com/joss/103/gtv/index.m3u8
 
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Indonesia Channels",TEST 3
-http://cdnkbl3.indihometv.com/atm/dash/mncnews/chunklist.m3u8
+https://cdn09jtedge.indihometv.com/joss/102/mnctv/index.m3u8
 
 
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Indonesia Channels",TEST 4
