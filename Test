@@ -6,14 +6,14 @@
 https://cdn09jtedge.indihometv.com/joss/133/galaxy/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Indonesia Channel", TEST 2
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/630.m3u8
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/157591
 
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Indonesia Channels",TEST 3
-https://cdn09jtedge.indihometv.com/joss/102/mnctv/index.m3u8
+http://iptvtree.net:8080/c4596f70/c3848d92/157591
 
 
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Indonesia Channels",TEST 4
-https://cdn09jtedge.indihometv.com/joss/137/net/index.m3u8
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Indonesia Channels",TEST 5
 https://cdn09jtedge.indihometv.com/joss/138/net/index.m3u8
